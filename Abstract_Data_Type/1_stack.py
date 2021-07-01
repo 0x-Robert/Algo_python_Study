@@ -35,9 +35,7 @@ if __name__ == "__main__":
         stack.push(i)
     print("스택 크기: {0}".format(stack.size()))
     print("peek: {0}".format(stack.peek()))
-    print("pop : {0}".format(stack.pop))
+    print("pop : {0}".format(stack.pop()))
     print("peek: {0}".format(stack.peek()))
     print("스택이 비었나요? {0}".format(stack.isEmpty()))
     print(stack)
-
-
