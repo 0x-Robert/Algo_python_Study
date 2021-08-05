@@ -1,7 +1,7 @@
 ﻿# Alog_python_Study
 
 
-## Pyhon Algo Study~
+
 
 
 
