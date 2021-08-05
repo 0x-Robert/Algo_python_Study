@@ -1,13 +1,9 @@
 ﻿# Alog_python_Study
 
 
-Pyhon Algo Study~
+## Pyhon Algo Study~
 
 
-* git command
-* git add .
-* git commit -m " "
-* git push -u origin main
 
 ### 1.숫자 </br>
 ### 2.내장 시퀸스 타입 </br> 
