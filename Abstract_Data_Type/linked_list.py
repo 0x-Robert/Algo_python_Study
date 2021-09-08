@@ -19,7 +19,7 @@ def print_list():
     global node_A
     node=node_A
     while node:
-        print(node.data)
+        print("node.data",node.data)
         node=node.next
     print
 
